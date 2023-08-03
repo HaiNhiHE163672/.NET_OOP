@@ -1,0 +1,15 @@
+D:\LTS_Project\OOPList\bin\Debug\net6.0\OOPList.exe
+D:\LTS_Project\OOPList\bin\Debug\net6.0\OOPList.deps.json
+D:\LTS_Project\OOPList\bin\Debug\net6.0\OOPList.runtimeconfig.json
+D:\LTS_Project\OOPList\bin\Debug\net6.0\OOPList.dll
+D:\LTS_Project\OOPList\bin\Debug\net6.0\OOPList.pdb
+D:\LTS_Project\OOPList\obj\Debug\net6.0\OOPList.csproj.AssemblyReference.cache
+D:\LTS_Project\OOPList\obj\Debug\net6.0\OOPList.GeneratedMSBuildEditorConfig.editorconfig
+D:\LTS_Project\OOPList\obj\Debug\net6.0\OOPList.AssemblyInfoInputs.cache
+D:\LTS_Project\OOPList\obj\Debug\net6.0\OOPList.AssemblyInfo.cs
+D:\LTS_Project\OOPList\obj\Debug\net6.0\OOPList.csproj.CoreCompileInputs.cache
+D:\LTS_Project\OOPList\obj\Debug\net6.0\OOPList.dll
+D:\LTS_Project\OOPList\obj\Debug\net6.0\refint\OOPList.dll
+D:\LTS_Project\OOPList\obj\Debug\net6.0\OOPList.pdb
+D:\LTS_Project\OOPList\obj\Debug\net6.0\OOPList.genruntimeconfig.cache
+D:\LTS_Project\OOPList\obj\Debug\net6.0\ref\OOPList.dll
